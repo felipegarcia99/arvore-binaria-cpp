@@ -9,7 +9,7 @@ O objetivo do compartilhamento deste código é fornecer um exemplo da implement
 Esse programa fora desenvolvido no Windows. Apesar disso, pelo fato de usar bibliotecas padrão do C++, logo, deve funcionar em todas as plataformas.
 
 
-## Desenvolvedores
+## Desenvolvimento
 Esse projeto foi desenvolvido como requisito para a disciplina **Programação Aplicada em C++** (assunto: Estrutura de Dados), cujo professor era **Ricardo Casseb**. O curso é o de **Engenharia de Computação**, na faculdade **CESUPA**, no ano de **2017**.
 
 **2º semestre** do curso de Engenharia de Computação, **2017**.
